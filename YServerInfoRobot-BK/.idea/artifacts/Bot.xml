@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bot">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bot</output-path>
+    <root id="archive" name="Bot.jar">
+      <element id="module-output" name="YServerInfoRobot-NK" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/recourses" />
+    </root>
+  </artifact>
+</component>
